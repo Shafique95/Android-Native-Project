@@ -11,8 +11,13 @@
 ![profile](https://github.com/Shafique95/Android-Native-Project/blob/main/passresetpage.jpeg)
 # 6.User can find nearest Hospital through Page
 ![profile](https://github.com/Shafique95/Android-Native-Project/blob/main/Using%20map%20to%20find%20nearest%20Hospital%20.png)
-# 7.This is the Student Panel  page of this project
-![profile]()
-# 8.This is the Library  page of this project
-![profile]()
-## To run this project need Netbeans 8.2/ Eclips /intellij idea but it was designed in Netbeans
+     
+# To run this project need :-  
+
+1. android SDK 
+2. android Emulator
+3. Text Editor
+   1. Android Studieo
+   2. Vs Code
+
+
